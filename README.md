@@ -3,7 +3,7 @@
 **서버까지 이해하는 Android 개발자**입니다.
 
 배달대행 플랫폼에서 3년 6개월 동안 기사·관리자·상점용 Android 앱을 운영했고,
-지금은 가천대학교 컴퓨터공학과에서 공부하며 FastAPI 백엔드와 Kotlin·Compose 앱을 만들고 있습니다.
+지금은 가천대학교 컴퓨터공학과에서 공부하며 FastAPI 백엔드와 AI 서비스를 만들고 있습니다.
 화면 뒤에서 데이터가 어떻게 오가는지 알고, 그 흐름을 사용자 경험으로 연결하는 일을 좋아합니다.
 
 ---
@@ -23,7 +23,6 @@
 
 | 프로젝트 | 설명 | 역할 · 기술 |
 | --- | --- | --- |
-| [때마침](https://github.com/tw0winju/ttaemachim) | 생활용품 교체·청소·점검 주기 관리 Android 앱 | 개인 · Kotlin, Jetpack Compose, Hilt, Room, Multi-module |
 | [DALM](https://github.com/Team-DALM/DALM-Backend) | 서로 닮은 사진을 매칭해 엽서를 주고받는 AI 사진 매칭 앱 | 백엔드 전담 · FastAPI, PostgreSQL(pgvector), Redis, Cloud Run, OpenAPI |
 | [GachonGrow](https://github.com/tw0winju/2026-GC-Vibe-Hackathon) | 가천대 개발자 포트폴리오·프로젝트 피드백 커뮤니티 (교내 바이브 해커톤) | 백엔드 · Express, Supabase, Swagger |
 | [CoreNote](https://github.com/tw0winju/CoreNote) | 내 자료에 질문하면 출처와 함께 답하는 로컬 RAG 학습 도우미 | 개인 · React, Node.js, Ollama, 하이브리드 검색 |
@@ -32,11 +31,7 @@
 
 **Android**
 <br/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/Hilt-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Retrofit2-48B983?style=flat-square&logo=square&logoColor=white" />
 <img src="https://img.shields.io/badge/RxJava-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
 
